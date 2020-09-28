@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Abhijat Singh, 4rth uear CCE undergraduate from MIT, Manipal.
+I am Abhijat Singh, 4rth year CCE undergraduate from MIT, Manipal.
 
-- 👯 I’m looking to collaborate on Data Science or ML project.
+- 👯 I’m looking to collaborate on Data Science or ML project or software development.
+- ⚡ Skillset: Data Structures and Algorithms in C/C++ an MY-SQL.
 - 🌱 I’m currently learning Java.
 - 📫 How to reach me: abhijatsingh1999@gmail.com
 
