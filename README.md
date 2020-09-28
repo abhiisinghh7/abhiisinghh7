@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 I am Abhijat Singh, 4rth year CCE undergraduate from MIT, Manipal.
 
 - 👯 I’m looking to collaborate on Data Science or ML project or software development.
-- ⚡ Skillset: Data Structures and Algorithms in C/C++ an MY-SQL.
+- ⚡ Skillset: Data Structures and Algorithms in C/C++ and database management in MY-SQL.
 - 🌱 I’m currently learning Java.
 - 📫 How to reach me: abhijatsingh1999@gmail.com
 
